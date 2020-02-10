@@ -7,3 +7,15 @@ input{
     background: red;
     color: #fff
 }
+
+form{
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     background: #fff;
+     padding: 10px;
+}
+#igual{
+    width: 105px;
+}
